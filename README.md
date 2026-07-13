@@ -13,4 +13,4 @@ A Claude Code plugin marketplace.
 
 | Plugin | Description |
 |---|---|
-| [dev-skills](https://github.com/cagriy/dev-skills) | TDD-driven feature workflow: design, plan, and implement features end-to-end. |
+| [dev-skills](https://github.com/cagriy/dev-skills) | TDD-driven feature workflow: design, plan, and implement features end-to-end. Slash commands are namespaced `/dev:` (e.g. `/dev:feature-design`). |
