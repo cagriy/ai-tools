@@ -1,0 +1,17 @@
+{
+  "name": "ai-tools",
+  "description": "A collection of AI development plugins for Claude Code.",
+  "owner": {
+    "name": "Cagri Yucel"
+  },
+  "plugins": [
+    {
+      "name": "dev-skills",
+      "source": {
+        "source": "github",
+        "repo": "cagriy/dev-skills"
+      },
+      "description": "TDD-driven feature workflow: design, plan, and implement features end-to-end."
+    }
+  ]
+}
