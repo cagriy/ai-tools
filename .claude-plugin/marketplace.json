@@ -13,6 +13,15 @@
         "repo": "cagriy/dev-skills"
       },
       "description": "TDD-driven feature workflow: design, plan, and implement features end-to-end."
+    },
+    {
+      "name": "cc",
+      "displayName": "CC",
+      "source": {
+        "source": "github",
+        "repo": "cagriy/cc-plugin"
+      },
+      "description": "Session-scoped /cc-model and /cc-effort that accept the cache confirmation, and /cc-clear that runs a follow-up action after clearing."
     }
   ]
 }
